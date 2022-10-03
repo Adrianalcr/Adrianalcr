@@ -26,5 +26,5 @@
   <a href="https://instagram.com/adriianna_lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrianalima-dev@outlook.com"><img src="https://img.shields.io/badge/-email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriana-lima-cr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/Adrianalcr/adrianalcr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Adrianalcr/Adrianalcr/blob/output/github-contribution-grid-snake.svg)
 </div>
