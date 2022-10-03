@@ -14,9 +14,7 @@
   <img align="center" alt="Drika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
  <img align="center" alt="Drika-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- <img align="center" alt="Drika-node" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
-            <i class="devicon-wordpress-plain"></i>
+ <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
           
   <img align="right" alt="Drika-pic" height="150" style="border-radius:50px;" src="img/eu.png">
 </div>
