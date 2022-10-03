@@ -22,7 +22,7 @@
 
   ##
 
-<div> 
+<div display="flex"> 
   <a href="https://instagram.com/adriianna_lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   <a href = "mailto:adrianalima-dev@outlook.com"><img src="https://img.shields.io/badge/-email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
