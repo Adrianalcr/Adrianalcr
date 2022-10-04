@@ -1,7 +1,8 @@
 ## Hi! I'm Adriana Lima, full stack developer and manager information technology!
 <div display="flex" flexDirection="row">
   <a href="https://github.com/Adrianalcr">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adrianalcr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianalcr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
