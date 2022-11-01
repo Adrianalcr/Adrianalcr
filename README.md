@@ -4,9 +4,9 @@
 I'm full stack developer and manager information technology!
 
 - 💻 I am currently working as a freelance PJ, however I am looking for new job opportunities;
-- 📚 I am currently learning the Golang, Java and Linux;
+- 📚 I am currently learning the Golang, Java and Linux 🎓;
 - 🚧 I'm looking to collaborate on projects that help me develop as a professional;
-- 🤔 I'm looking for help to grow as a full stack developer;
+- :trollface: I'm looking for help to grow as a full stack developer;
 - 💬 Ask me about software development and new ideas 💡;
 - ✉️ Como entrar em contato comigo: <a href = "mailto:adrianalima-dev@outlook.com"><img src="https://img.shields.io/badge/-email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 - 😄 Pronouns: (Ela, She);
