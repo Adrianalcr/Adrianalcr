@@ -1,4 +1,6 @@
-## Hi! I'm Adriana Lima, full stack developer and manager information technology!
+# 👋 Hello! Welcome to my Github profile.## My name is Adriana Lima. </br>
+I'm Adriana Lima, full stack developer and manager information technology!
+
 <div display="flex" flexDirection="row">
   <a href="https://github.com/Adrianalcr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adrianalcr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
