@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile. </br>
 
 ## My name is Adriana Lima. </br>
-I'm Adriana Lima, full stack developer and manager information technology!
+I'm full stack developer and manager information technology!
 
 <div display="flex" flexDirection="row">
   <a href="https://github.com/Adrianalcr">
