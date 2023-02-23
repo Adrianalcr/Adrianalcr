@@ -32,7 +32,7 @@ I'm full stack developer and manager information technology!
   <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Drika-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
- 
+  <img align="center" alt="Drika-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   
   <img align="right" alt="Drika-pic" height="150" style="border-radius:50px;" src="img/eu.png">
 </div>
