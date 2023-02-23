@@ -36,6 +36,12 @@ I'm full stack developer and manager information technology!
   
   <img align="right" alt="Drika-pic" height="150" style="border-radius:50px;" src="img/eu.png">
 </div>
+<style>
+/* if you want to change the original color */
+.devicon-devicon-plain path {
+  fill: #fff;
+}
+</style>
 
 
   ## Contact
